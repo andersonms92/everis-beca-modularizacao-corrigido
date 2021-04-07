@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mod_login_password">senha:</string>
+    <string name="mod_login_button_0_or_1">0 ou 1</string>
+    <string name="mod_login_button_2_or_3">2 ou 3</string>
+    <string name="mod_login_button_4_or_5">4 ou 5</string>
+    <string name="mod_login_button_6_or_7">6 ou 7</string>
+    <string name="mod_login_button_8_or_9">8 ou 9</string>
+    <string name="mod_login_login">Entrar</string>
+</resources>

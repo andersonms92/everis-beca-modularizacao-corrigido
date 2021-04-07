@@ -1,6 +1,7 @@
-package com.niemietz.everis.beca.core
+package com.niemietz.everis.beca.modulrizacao
 
 import android.app.Application
+import com.niemietz.everis.beca.core.BackendClient
 import com.niemietz.everis.beca.modularizacao.BuildConfig
 
 class CustomApplication: Application() {
